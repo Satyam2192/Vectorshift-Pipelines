@@ -1,4 +1,3 @@
-# This project id Deployed on [VERCEL](#)
 
 # Getting Started with Create React App
 
